@@ -35,3 +35,4 @@ void main()
 if(flag==0)
 printf("Amagram string");
 }
+
