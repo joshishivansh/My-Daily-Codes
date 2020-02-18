@@ -1,10 +1,10 @@
-\\program to print all the possible words formed by the combination of letters of the given words. 
-\\repitation is allowed.......
+//program to print all the possible words formed by the combination of letters of the given words. 
+//repitation is allowed.......
 #include <stdio.h>
 #include<string.h>
-void recursion(int i,char s[],char ss[],int l)   \\excesive recursion function
+void recursion(int i,char s[],char ss[],int l)   //excesive recursion function
 
-{                       \\Tower of Hanoi algorithm.......................
+{                       //Tower of Hanoi algorithm.......................
     if(i==l)
     {
         ss[i]='\0';

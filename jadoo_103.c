@@ -1,10 +1,11 @@
 //wap to convert DNA to RNA and write a code in max of 103 character
 #include<stdio.h>
+#include<string.h>
 void main()
 {
     char a[(int)'z'];
     scanf("%s",a);
-    int l=strlen(a),i=0-;
+    int l=strlen(a),i=0;
     char flag='b';
     for(i='a'-'a';i<l;i++)
     {
