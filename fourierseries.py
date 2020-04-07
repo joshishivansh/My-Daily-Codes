@@ -1,5 +1,4 @@
 """
-    Author: Shivansh joshi
     External Libraries used: PyGame
     References of concept: 3Blue1Brown [What is Fourier Series? YT], Khan Academy [Fourier Transforms]
 """
